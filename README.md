@@ -10,8 +10,6 @@ The goals of the architecture is to:
 
 •	Automated Evidence Preservation: When it detects a threat, it doesn't just flash a notification and move on. It extracts the exact sentences that triggered the anomaly and securely serializes them into SentinelDB.
 
-Here is a complete, well-structured `README.md` file tailored specifically to your project's architecture, including the dependencies, database setup, and pipeline phases we just finalized. You can copy and paste this directly into your repository.
-
 ---
 
 ## Architecture & Workflow
